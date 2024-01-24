@@ -1,4 +1,4 @@
-# Azure Static Web Apps Gallery 
+ # Azure Static Web Apps Gallery 
 
 Welcome to the Azure Static Web Apps Gallery - a showcase of awesome projects built by community, and deployed to the **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=staticwebapps-github-cxa)** service.
 
